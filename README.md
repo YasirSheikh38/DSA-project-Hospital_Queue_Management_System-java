@@ -28,10 +28,7 @@ This is a **Java Swing-based GUI application** that simulates a hospital queue m
 
 ## 📂 File Structure
 
-HospitalQueueSystem/
-├── Patient.java # Patient class with Comparable interface
-├── HospitalQueueManager.java # Handles queue operations
-└── HospitalGUI.java # Swing-based GUI application
+<pre> HospitalQueueSystem/ ├── README.md ├── HospitalGUI.java ├── HospitalQueueManager.java ├── Patient.java └── screenshots/ └── gui.png </pre>
 
 ### 🛠 Requirements
 
@@ -48,7 +45,7 @@ HospitalQueueSystem/
 java HospitalGUI
 
 ### 🖥️ Main GUI Interface
-![Hospital Queue GUI](screenshots/gui.png)
+![Hospital Queue GUI](screenshots/Project GUI.png)
 
 ---
 
