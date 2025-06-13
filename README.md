@@ -38,7 +38,7 @@ This is a **Java Swing-based GUI application** that simulates a hospital queue m
 
 3. Run the main GUI class:
 
-java HospitalGUI
+ <pre>java HospitalGUI</pre> 
 
 ### 🖥️ Main GUI Interface
 
