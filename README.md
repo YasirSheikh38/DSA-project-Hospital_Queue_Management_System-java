@@ -49,7 +49,7 @@ HospitalQueueSystem/
 java HospitalGUI
 
 ### 🖥️ Main GUI Interface
-![Hospital Queue GUI]([screenshots/Project GUI.png](https://github.com/YasirSheikh38/DSA-project-Hospital_Queue_Management_System-java/blob/1a87c542ae8296638063381ec07f58156b48f96f/screenshots/Project%20GUI.jpg)
+![Hospital Queue GUI]([screenshots/Project GUI.png](https://github.com/YasirSheikh38/DSA-project-Hospital_Queue_Management_System-java/blob/1a87c542ae8296638063381ec07f58156b48f96f/screenshots/Project%20GUI.jpg))
 
 ---
 
