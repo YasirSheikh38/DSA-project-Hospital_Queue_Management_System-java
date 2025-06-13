@@ -26,14 +26,6 @@ This is a **Java Swing-based GUI application** that simulates a hospital queue m
 
 ---
 
-## 📂 File Structure
-
-HospitalQueueSystem/
-├── README.md
-├── HospitalGUI.java
-├── HospitalQueueManager.java
-├── Patient.java
-
 ### 🛠 Requirements
 
 - Java JDK 8 or higher
@@ -49,7 +41,8 @@ HospitalQueueSystem/
 java HospitalGUI
 
 ### 🖥️ Main GUI Interface
-![Hospital Queue GUI]([screenshots/Project GUI.png](https://github.com/YasirSheikh38/DSA-project-Hospital_Queue_Management_System-java/blob/1a87c542ae8296638063381ec07f58156b48f96f/screenshots/Project%20GUI.jpg))
+
+![Hospital Queue GUI](https://github.com/user-attachments/assets/b6a97c5f-5feb-45f7-87a6-ece3fd93816f)
 
 ---
 
